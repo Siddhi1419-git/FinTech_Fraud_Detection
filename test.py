@@ -1,0 +1,1 @@
+print("My fraud detection workshop is ready!")
